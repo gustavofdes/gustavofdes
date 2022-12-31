@@ -1,4 +1,4 @@
-## Olá, eu sou o Gustavo Ferreira, seja bem vindo em meu GitHub!
+## Salve, eu sou o Gustavo Ferreira, seja bem vindo em meu GitHub!
 <div align="center">
   <a href="https://github.com/GustavoTK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoTK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
