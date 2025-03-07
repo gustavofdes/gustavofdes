@@ -1,6 +1,5 @@
 # 🚀 Meu Perfil no GitHub  
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)  
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
@@ -34,18 +33,12 @@ Eu sou **Gustavo Ferreira**, um entusiasta da tecnologia e estudante de desenvol
 ### 📌 Projetos Destacados  
 
 📍 **Projeto Site - Estudos**  
-🛠️ Tecnologias: HTML, CSS 
+🛠️ Tecnologias: HTML, CSS  <br>
 🔗 [Repositório](https://github.com/gustavofdes/projeto-android) 
  
 
 ---
 
-### 🎵 Tocando Agora  
-Se liga no som enquanto codamos! 🎧  
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=o4x0gow68eb97ymcbk20w5q7s&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/o4x0gow68eb97ymcbk20w5q7s)  
-
----
 
 ### 📊 Estatísticas do GitHub  
 
@@ -58,8 +51,5 @@ Se liga no som enquanto codamos! 🎧
 
 ### 📫 Como me encontrar  
 
-📩 **Email**: ferreira.gustavo0707@gmail.com 
-🌐 **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/gustavo-ferreira-85080625b/)
-
----
-
+📩 **Email**: ferreira.gustavo0707@gmail.com <br>
+🌐 **LinkedIn**: [Gustavo Ferreira](https://www.linkedin.com/in/gustavo-ferreira-85080625b/)
