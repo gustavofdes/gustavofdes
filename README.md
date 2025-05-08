@@ -7,7 +7,7 @@
 
 ## Olá, dev! 👋 Seja bem-vindo ao meu repositório!  
 
-Eu sou **Gustavo Ferreira**, um entusiasta da tecnologia e estudante de desenvolvimento de software. Aqui compartilho meus projetos e minha evolução na programação. Vamos trocar ideias e aprender juntos?   
+Eu sou **Gustavo Ferreira**, um entusiasta da tecnologia e estudante de desenvolvimento de software. Aqui compartilho meus projetos e minha evolução na programação.
 
 ---
 
